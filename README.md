@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm BuildsbyKing
+# I'm BuildsbyKing
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Student+%7C+Aspiring+Founder;alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Student+%7C+Aspiring+Founder;"Typing SVG" />
 </div>
 
 <div align="center">
@@ -105,7 +105,7 @@
 ## 💼 Open to Opportunities
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=💼+Open+to+Job+Opportunities;🤝+Available+for+Collaborations;🚀+Let's+Build+Something+Amazing!" alt="Opportunities Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=💼+Open+to+Job+Opportunities;🤝+Available+for+Collaborations;🚀+Let's+Build+Something+Amazing!" />
 </div>
 
 - 💼 **Job Opportunities** - Always open to exciting roles and internships
